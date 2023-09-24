@@ -1,0 +1,2 @@
+Hello world this is my first repo for the Odin Project! 
+Hello Odin! Thank you for the amazing opportunity you are creating for young prospects like me!
